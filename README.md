@@ -13,7 +13,59 @@
 
 ### 🚀 About Me
 
-I'm a passionate Frontend Developer with a strong foundation in modern web technologies. My journey in web development is driven by:
+I'm a passionate Frontend Developer with a strong foundation in modern <h1 align="center">👨‍💻 Shreyansh Awadhiya</h1>
+<h3 align="center">Full Stack Developer | Crafting End-to-End Solutions 🚀</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=develop-programs&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://img.shields.io/github/followers/develop-programs?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" alt="focus" />
+</p>
+
+### 🎯 Professional Summary
+
+Dedicated Full Stack Developer with expertise in building scalable web applications. Passionate about:
+
+- 🏗️ Architecting end-to-end solutions from concept to deployment
+- 🔄 Implementing CI/CD pipelines for automated deployment
+- 🎨 Creating engaging user experiences with modern UI/UX principles
+- 🔧 Optimizing application performance and security
+- 👥 Leading technical teams and mentoring junior developers
+
+### 💻 Technology Arsenal
+
+```javascript
+const techStack = {
+  frontend: {
+    languages: ['JavaScript', 'TypeScript', 'HTML5', 'CSS3'],
+    frameworks: ['React.js', 'Next.js', 'Vue.js'],
+    styling: ['Tailwind CSS', 'SASS/SCSS', 'Styled Components', 'Material UI'],
+    stateManagement: ['Redux Toolkit', 'Zustand', 'Context API'],
+    testing: ['Jest', 'React Testing Library', 'Cypress'],
+  },
+  backend: {
+    languages: ['Node.js', 'Python', 'Java'],
+    frameworks: ['Express.js', 'NestJS', 'Django', 'Spring Boot'],
+    databases: {
+      sql: ['PostgreSQL', 'MySQL'],
+      nosql: ['MongoDB', 'Redis'],
+      orm: ['Prisma', 'Mongoose', 'TypeORM']
+    },
+    api: ['REST', 'GraphQL', 'WebSockets'],
+  },
+  devOps: {
+    cloud: ['AWS', 'GCP', 'Azure'],
+    containerization: ['Docker', 'Kubernetes'],
+    cicd: ['GitHub Actions', 'Jenkins', 'GitLab CI'],
+    monitoring: ['Grafana', 'Prometheus', 'ELK Stack'],
+  },
+  architecture: {
+    patterns: ['Microservices', 'MVC', 'CQRS'],
+    principles: ['SOLID', 'DRY', 'Clean Code'],
+    security: ['OAuth2.0', 'JWT', 'HTTPS'],
+  },
+  currentlyLearning: ['Rust', 'Web3', 'Machine Learning'],
+};web technologies. My journey in web development is driven by:
 
 - 💡 Turning complex problems into simple, beautiful solutions
 - 🎯 Creating responsive and intuitive user interfaces
@@ -52,6 +104,7 @@ TypeScript   ████████░░░░░░░░░░   40%
 React        ███████████░░░░░░░   55%
 CSS          ████████░░░░░░░░░░   40%
 Node.js      ██████░░░░░░░░░░░░   30%
+Next.js      ██████████████░░░░   69%
 ```
 
 ### 🌟 Featured Projects
