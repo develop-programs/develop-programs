@@ -8,49 +8,84 @@
 </p>
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&h=300&fit=crop" alt="coding-banner" />
+  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&h=300&fit=crop" alt="coding-banner" />
 </div>
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **Next.js and TypeScript projects**
-- 🌱 Learning **AWS Cloud Architecture** and **System Design**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Next.js, TypeScript, or Frontend Architecture**
-- ⚡ Fun fact: **I love turning coffee into code ☕**
+I'm a passionate Frontend Developer with a strong foundation in modern web technologies. My journey in web development is driven by:
 
-### 🛠️ Tech Stack
+- 💡 Turning complex problems into simple, beautiful solutions
+- 🎯 Creating responsive and intuitive user interfaces
+- 📚 Continuous learning and staying up-to-date with latest tech
+- 🤝 Collaborating with teams to build impactful applications
 
-<details>
-<summary>Frontend</summary>
+### 💻 Tech Stack
 
-- **Languages:** HTML5, CSS3, JavaScript, TypeScript
-- **Frameworks:** React.js, Next.js
-- **Styling:** Tailwind CSS, Bootstrap
-- **State Management:** Redux, Context API
-- **Build Tools:** Webpack, Vite
-</details>
+```javascript
+const techStack = {
+  frontend: {
+    languages: ['JavaScript', 'TypeScript', 'HTML5', 'CSS3'],
+    frameworks: ['React.js', 'Next.js'],
+    styling: ['Tailwind CSS', 'CSS Modules', 'Styled Components'],
+    stateManagement: ['Redux', 'Context API', 'Zustand'],
+  },
+  backend: {
+    runtime: 'Node.js',
+    framework: 'Express.js',
+    database: ['MongoDB', 'MySQL'],
+  },
+  tools: {
+    versionControl: 'Git',
+    deployment: ['Vercel', 'Netlify', 'AWS'],
+    design: ['Figma', 'Adobe XD'],
+  },
+  currentlyLearning: ['System Design', 'AWS', 'TypeScript'],
+};
+```
 
-<details>
-<summary>Backend</summary>
+### 📊 Weekly Development Breakdown
 
-- **Runtime:** Node.js
-- **Frameworks:** Express.js, Django
-- **Languages:** Python, Java, Go
-- **Databases:** MongoDB, MySQL, Redis
-</details>
+```text
+JavaScript   █████████████░░░░░   65%
+TypeScript   ████████░░░░░░░░░░   40%
+React        ███████████░░░░░░░   55%
+CSS          ████████░░░░░░░░░░   40%
+Node.js      ██████░░░░░░░░░░░░   30%
+```
 
-<details>
-<summary>DevOps & Tools</summary>
+### 🌟 Featured Projects
 
-- **Cloud:** AWS
-- **Containers:** Docker
-- **Message Broker:** Kafka
-- **Version Control:** Git
-- **Design:** Figma, Adobe XD, Illustrator, Photoshop
-</details>
+<div align="center">
+  <a href="https://github.com/develop-programs/project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=develop-programs&repo=project-1&theme=radical" />
+  </a>
+  <a href="https://github.com/develop-programs/project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=develop-programs&repo=project-2&theme=radical" />
+  </a>
+</div>
 
-### 🤝 Connect with Me
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=develop-programs&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="github-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=develop-programs&theme=radical&hide_border=true" alt="streak-stats" />
+</div>
+
+### 📊 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=develop-programs&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="top-langs" />
+</div>
+
+### 🏆 Achievements
+
+- 🌟 Contributed to open-source projects
+- 🎓 Completed advanced web development certifications
+- 💼 Built and deployed multiple production-ready applications
+- 📱 Developed responsive and accessible web applications
+
+### 🤝 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/shreyansh-awadhiya" target="_blank">
@@ -64,31 +99,15 @@
   </a>
 </p>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=develop-programs&show_icons=true&theme=radical&hide_border=true" alt="github-stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=develop-programs&theme=radical&hide_border=true" alt="streak-stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=develop-programs&layout=compact&theme=radical&hide_border=true" alt="top-langs" />
-</div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=develop-programs&theme=radical&no-frame=true&row=1" alt="trophies" />
-</div>
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=develop-programs&theme=radical&hide_border=true" alt="contribution-graph" />
-</div>
+### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Building Scalable React Applications](https://your-blog-url.com)
+- [Advanced TypeScript Patterns](https://your-blog-url.com)
+- [Modern CSS Best Practices](https://your-blog-url.com)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
 <p align="center">
-  <i>Let's connect and build something amazing together!</i>
+  <i>⭐️ From [Shreyansh Awadhiya](https://github.com/develop-programs)</i>
 </p>
