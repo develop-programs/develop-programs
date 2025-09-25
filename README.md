@@ -63,19 +63,19 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Project 1</h3>
+        <h3 align="center">Video Chat App</h3>
         <div align="center">
-          <p>A full-stack application built with Next.js, TypeScript, and GraphQL that helps developers streamline their workflow.</p>
-          <a href="https://github.com/develop-programs/project1" target="_blank">
+          <p>Real-time video conferencing platform supporting 50+ concurrent users with <200ms latency.</p>
+          <a href="https://github.com/develop-programs/Glimpse.git" target="_blank">
             <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" alt="Repository Badge"/>
           </a> 
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">Project 2</h3>
+        <h3 align="center">Innovritti</h3>
         <div align="center">
-          <p>A productivity tool built with Go and React that integrates with various developer environments.</p>
-          <a href="https://github.com/develop-programs/project2" target="_blank">
+          <p>Designed and maintained event website for 500+ attendees.</p>
+          <a href="https://github.com/develop-programs/innovritti-final.git" target="_blank">
             <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" alt="Repository Badge"/>
           </a>
         </div>
